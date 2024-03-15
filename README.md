@@ -17,7 +17,7 @@ You are welcome to use without any limitations so far and feel free to support d
   - [ ] Doom tower
   - [x] Hydra
   - [x] Faction wars
-  - [x] Twin Fortress guard
+  - [x] Twin Fortress
 
 
 - Side Effects
@@ -34,11 +34,10 @@ You are welcome to use without any limitations so far and feel free to support d
   - [ ] Scheduler
   - [ ] GUI 
 
-# Your own config.json
-In progress...
-
-
 # Requirements
 
 1. Windows OS
 2. PlariumPlay client
+
+# Your own config.json
+In progress...
