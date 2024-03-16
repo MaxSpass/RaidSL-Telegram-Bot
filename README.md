@@ -2,9 +2,9 @@
 
 The project is a pure pet-project build, which is intended to reduce routine while playing RAID Shadow Legends game.
 
-It holds a smart clicker under the hood and the core functionality is integrated with Telegram Bot, therefore it's allows to close main game activities while being away from your PC
+It holds a smart clicker under the hood and the core functionality is integrated with Telegram Bot, therefore it's allows to close main game activities while being away from your PC.
 
-You are welcome to use without any limitations so far and feel free to support developer, please.
+You are welcome to use without any limitations so far and feel free to support developer by providing test reports.
 
 # Progress
 
@@ -17,7 +17,7 @@ You are welcome to use without any limitations so far and feel free to support d
   - [ ] Doom tower
   - [x] Hydra
   - [x] Faction wars
-  - [x] Twin Fortress
+  - [x] Twin Fortress guard
 
 
 - Side Effects
@@ -34,10 +34,11 @@ You are welcome to use without any limitations so far and feel free to support d
   - [ ] Scheduler
   - [ ] GUI 
 
+# Your own config.json
+In progress...
+
+
 # Requirements
 
 1. Windows OS
 2. PlariumPlay client
-
-# Your own config.json
-In progress...
