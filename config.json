@@ -273,14 +273,6 @@
         "iron_twins",
         "doom_tower"
       ]
-    },
-    {
-      "name": "test",
-      "commands": [
-        "rewards",
-        "report",
-        "screen"
-      ]
     }
   ],
   "after_each": ["rewards"]

@@ -35,7 +35,26 @@ You are welcome to use without any limitations so far and feel free to support d
   - [ ] GUI 
 
 # Your own config.json
-In progress...
+
+```
+Key: "start_immediate"
+Accept values: 1 | 0 
+```
+
+```
+key: "game_path"
+Accept type: string
+```
+
+```
+key: "telegram_token"
+Accept type: string
+```
+
+```
+key: "tasks"
+Accept type: array
+```
 
 
 # Requirements
