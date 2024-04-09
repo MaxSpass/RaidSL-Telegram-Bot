@@ -30,7 +30,7 @@ You are welcome to use without any limitations so far and feel free to support d
 
 - System
   - [x] Telegram Bot :: Integration
-  - [ ] Telegram Bot :: Async commands
+  - [x] Telegram Bot :: Async commands
   - [ ] Scheduler
   - [ ] GUI 
 
@@ -53,6 +53,11 @@ Accept type: string
 
 ```
 key: "tasks"
+Accept type: array
+```
+
+```
+key: "presets"
 Accept type: array
 ```
 
