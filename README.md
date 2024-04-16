@@ -25,7 +25,8 @@ You are welcome to use without any limitations so far and feel free to support d
   - [x] Report
   - [x] Screen
   - [x] Restart/Launch
-  - [ ] Quests (Daily, Weekly)
+  - [x] Quests "Daily"
+  - [ ] Quests "Weekly"
 
 
 - System
