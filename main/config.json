@@ -327,14 +327,15 @@
     {
       "name": "test",
       "commands": [
-        "demon_lord",
-        "arena_classic",
-        "rewards",
-        "daily_quests",
-        "rewards",
-        "dungeon_minotaur",
         "doom_tower",
+        "daily_quests",
+        "demon_lord",
+        "rewards",
+        "arena_classic",
+        "dungeon_sand_devil",
 
+        "arena_classic",
+        "arena_classic",
         "arena_classic",
         "arena_classic",
         "arena_classic",
