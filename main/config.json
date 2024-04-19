@@ -323,6 +323,31 @@
         "dungeon_minotaur",
         "doom_tower"
       ]
+    },
+    {
+      "name": "test",
+      "commands": [
+        "demon_lord",
+        "arena_classic",
+        "rewards",
+        "daily_quests",
+        "rewards",
+        "dungeon_minotaur",
+        "doom_tower",
+
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic",
+        "arena_classic"
+      ]
     }
   ],
   "after_each": ["rewards"]
