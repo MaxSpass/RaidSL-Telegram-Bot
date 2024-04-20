@@ -239,6 +239,10 @@
     {
       "task": "daily_quests",
       "enable": 1
+    },
+    {
+      "task": "test_feature",
+      "enable": 1
     }
   ],
   "presets": [
@@ -327,11 +331,10 @@
     {
       "name": "test",
       "commands": [
-        "arena_classic",
-        "arena_classic",
-        "arena_classic",
-        "arena_classic",
-        "arena_classic"
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature"
       ]
     }
   ],
