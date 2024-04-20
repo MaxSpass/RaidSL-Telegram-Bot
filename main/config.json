@@ -242,6 +242,23 @@
     },
     {
       "task": "test_feature",
+      "title": "5sec",
+      "enable": 1,
+      "props": {
+        "seconds": 5
+      }
+    },
+    {
+      "task": "test_feature",
+      "title": "15min",
+      "enable": 1,
+      "props": {
+        "seconds": 900
+      }
+    },
+    {
+      "task": "test_feature",
+      "title": "60min",
       "enable": 1
     }
   ],
@@ -329,29 +346,32 @@
       ]
     },
     {
-      "name": "test 60min",
+      "name": "test 10sec",
       "commands": [
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature"
+        "test_feature_5sec",
+        "test_feature_5sec"
       ]
     },
     {
-      "name": "test 180min",
+      "name": "test 60min",
       "commands": [
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature",
-        "test_feature"
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min"
+      ]
+    },
+    {
+      "name": "test 120min",
+      "commands": [
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min",
+        "test_feature_15min"
       ]
     }
   ],
