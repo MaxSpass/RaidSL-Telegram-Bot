@@ -329,8 +329,25 @@
       ]
     },
     {
-      "name": "test",
+      "name": "test 60min",
       "commands": [
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature"
+      ]
+    },
+    {
+      "name": "test 180min",
+      "commands": [
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature",
+        "test_feature",
         "test_feature",
         "test_feature",
         "test_feature",
