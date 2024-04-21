@@ -242,10 +242,10 @@
     },
     {
       "task": "test_feature",
-      "title": "5sec",
+      "title": "3sec",
       "enable": 1,
       "props": {
-        "seconds": 5
+        "seconds": 3
       }
     },
     {
@@ -346,10 +346,10 @@
       ]
     },
     {
-      "name": "test 10sec",
+      "name": "test 6sec",
       "commands": [
-        "test_feature_5sec",
-        "test_feature_5sec"
+        "test_feature_3sec",
+        "test_feature_3sec"
       ]
     },
     {
