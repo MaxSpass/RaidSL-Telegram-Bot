@@ -65,11 +65,12 @@
           {
             "name": "Ramantu Drakesblood",
             "role": "s",
-            "priority": 1
+            "priority": 0
           },
           {
-            "name": "Candraphon",
-            "role": "a"
+            "name": "Deathknight",
+            "role": "a",
+            "priority": 2
           },
           {
             "name": "Pythion",
