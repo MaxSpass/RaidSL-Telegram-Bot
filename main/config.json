@@ -51,12 +51,12 @@
           {
             "name": "Cupidus",
             "role": "a",
-            "priority": 1
+            "priority": 0
           },
           {
             "name": "Venus",
             "role": "s",
-            "priority": 1
+            "priority": 0
           },
           {
             "name": "Rotos",
@@ -64,15 +64,12 @@
           },
           {
             "name": "Ramantu Drakesblood",
-            "role": "a"
+            "role": "s",
+            "priority": 1
           },
           {
             "name": "Candraphon",
             "role": "a"
-          },
-          {
-            "name": "Tormin",
-            "role": "s"
           },
           {
             "name": "Pythion",
@@ -138,7 +135,7 @@
           {
             "stage": 2,
             "team_preset": 3,
-            "min_damage": 70,
+            "min_damage": 150,
             "skip": 0,
             "priority": {
               "head_of_decay": 2,
@@ -152,7 +149,7 @@
           {
             "stage": 3,
             "team_preset": 4,
-            "min_damage": 50,
+            "min_damage": 40,
             "skip": 0,
             "priority": {
               "head_of_decay": 2,
@@ -166,7 +163,7 @@
           {
             "stage": 4,
             "team_preset": 1,
-            "min_damage": 300,
+            "min_damage": 280,
             "skip": 0,
             "priority": {
               "head_of_decay": 2,
