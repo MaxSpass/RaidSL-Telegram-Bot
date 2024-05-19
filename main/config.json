@@ -12,6 +12,7 @@
       "enable": 1,
       "props": {
         "refill": 1,
+        "idle_after_defeat": 45,
         "pool": [
           {
             "name": "Armanz",
