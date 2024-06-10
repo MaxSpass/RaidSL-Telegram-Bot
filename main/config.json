@@ -105,7 +105,7 @@
       "props": {
         "refill": 0,
         "initial_refresh": 0,
-        "battle_time_limit": 10
+        "battle_time_limit": 300
       }
     },
     {
