@@ -14,7 +14,7 @@ You are welcome to use without any limitations so far and feel free to support d
   - [x] Arena Tag
   - [x] Demon lord
   - [x] Dungeons
-  - [ ] Doom tower
+  - [x] Doom tower
   - [x] Hydra
   - [x] Faction wars
   - [x] Twin Fortress guard
@@ -27,12 +27,12 @@ You are welcome to use without any limitations so far and feel free to support d
   - [x] Restart/Launch
   - [x] Quests "Daily"
   - [ ] Quests "Weekly"
+  - [ ] Quests "Monthly" 
 
 
 - System
   - [x] Telegram Bot :: Integration
   - [x] Telegram Bot :: Async commands
-  - [ ] Scheduler
   - [ ] GUI 
 
 # Your own config.json
