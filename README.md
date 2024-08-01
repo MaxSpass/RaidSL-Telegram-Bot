@@ -1,39 +1,36 @@
-# Intro
+# Unleash Your Full Potential with the Ultimate Raid Shadow Legends Bot!
+🌟 Elevate Your Gameplay, Maximize Your Time 🌟
 
-The project is a pure pet-project build, which is intended to reduce routine while playing RAID Shadow Legends game.
+Tired of spending hours on routine tasks in Raid Shadow Legends? Our game bot is here to revolutionize your gaming experience. Focus on strategy and enjoy more of the game while we handle the grind!
 
-It holds a smart clicker under the hood and the core functionality is integrated with Telegram Bot, therefore it's allows to close main game activities while being away from your PC.
+# Features:
 
-You are welcome to use without any limitations so far and feel free to support developer by providing test reports.
+Our bot seamlessly takes over and optimizes your actions across all crucial game locations:
 
-# Progress
+- Hydra: Conquer the Hydra with ease.
+- Arena Live: Dominate live battles effortlessly.
+- Arena Classic: Climb the ranks without breaking a sweat.
+- Arena Tag: Master tag team battles with precision.
+- Iron Twins: Crush the Iron Twins and claim your rewards.
+- Faction Wars: Lead your factions to victory.
+- All Dungeons: Clear dungeons efficiently and gather loot.
+- Demon Lord: Defeat the Demon Lord and earn top rewards.
+- Doom Tower: Scale the Doom Tower without hassle.
+- Daily Quests: Complete daily quests automatically and never miss a reward.
 
-- Locations
-  - [x] Arena Live
-  - [x] Arena Classic
-  - [x] Arena Tag
-  - [x] Demon lord
-  - [x] Dungeons
-  - [x] Doom tower
-  - [x] Hydra
-  - [x] Faction wars
-  - [x] Twin Fortress guard
+# Why Choose Our Bot?
+- Time-Saving: Automate routine tasks and free up your time.
+- Strategic Focus: Spend more time planning your strategies.
+- Enhanced Gameplay: Enjoy the game without the grind.
+- Family & Self-Growth: Gain more time for family, hobbies, and personal development.
+- Support: Our team is always ready to assist you.
 
+Transform Your Game
+Don’t let mundane tasks hold you back. Use our Raid Shadow Legends bot to automate and optimize your gameplay, giving you more time to enjoy the strategic aspects and long-term success.
 
-- Side Effects
-  - [x] Rewards
-  - [x] Report
-  - [x] Screen
-  - [x] Restart/Launch
-  - [x] Quests "Daily"
-  - [ ] Quests "Weekly"
-  - [ ] Quests "Monthly" 
+🚀 Join Now and Experience the Difference! 🚀
 
-
-- System
-  - [x] Telegram Bot :: Integration
-  - [x] Telegram Bot :: Async commands
-  - [ ] GUI 
+Unlock your true potential in Raid Shadow Legends with our game bot. Focus on what matters most and enjoy the game like never before. Get started today and reclaim your time!
 
 # Your own config.json
 
