@@ -14,6 +14,7 @@
       "props": {
         "refill": 1,
         "idle_after_defeat": 30,
+        "ban_priority": 1,
         "pool": [
           {
             "name": "Armanz",
@@ -265,6 +266,7 @@
       "name": "primary",
       "commands": [
         "arena_live",
+        "arena_live",
         "arena_classic",
         "arena_tag",
         "rewards",
@@ -276,12 +278,14 @@
         "iron_twins",
         "daily_quests",
         "rewards",
-        "doom_tower"
+        "doom_tower",
+        "daily_quests"
       ]
     },
     {
       "name": "primary with sand devil",
       "commands": [
+        "arena_live",
         "arena_live",
         "arena_classic",
         "arena_tag",
@@ -295,12 +299,14 @@
         "daily_quests",
         "rewards",
         "dungeon_sand_devil",
-        "doom_tower"
+        "doom_tower",
+        "daily_quests"
       ]
     },
     {
       "name": "primary with minotaur",
       "commands": [
+        "arena_live",
         "arena_live",
         "arena_classic",
         "arena_tag",
@@ -314,7 +320,8 @@
         "daily_quests",
         "rewards",
         "dungeon_minotaur",
-        "doom_tower"
+        "doom_tower",
+        "daily_quests"
       ]
     }
   ],
