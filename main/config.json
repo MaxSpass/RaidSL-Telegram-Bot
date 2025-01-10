@@ -205,7 +205,7 @@
       "task": "dungeon",
       "title": "Dragon",
       "enable": 1,
-      "props": {"locations": [{"id": 4, "stage": "n-1"}], "refill": 0}
+      "props": {"locations": [{"id": 4, "stage": "n"}], "refill": 0}
     },
     {
       "task": "dungeon",
