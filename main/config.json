@@ -187,43 +187,49 @@
       "task": "dungeon",
       "title": "Minotaur",
       "enable": 1,
-      "props": {"locations": [{"id": 1}], "refill": 0}
+      "props": {"locations": [{"id": 1, "stage": "n"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Ice Golem",
       "enable": 1,
-      "props": {"locations": [{"id": 2}], "refill": 0}
+      "props": {"locations": [{"id": 2, "stage": "n"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Spider",
       "enable": 1,
-      "props": {"locations": [{"id": 3}], "refill": 0}
+      "props": {"locations": [{"id": 3, "stage": "n"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Dragon",
       "enable": 1,
-      "props": {"locations": [{"id": 4}], "refill": 0}
+      "props": {"locations": [{"id": 4, "stage": "n-1"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Fire Knight",
       "enable": 1,
-      "props": {"locations": [{"id": 5}], "refill": 0}
+      "props": {"locations": [{"id": 5, "stage": "n"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Sand Devil",
       "enable": 1,
-      "props": {"locations": [{"id": 6}], "refill": 0}
+      "props": {"locations": [{"id": 6, "stage": "n-4"}], "refill": 0}
     },
     {
       "task": "dungeon",
       "title": "Phantom",
       "enable": 1,
-      "props": {"locations": [{"id": 7}], "refill": 0}
+      "props": {"locations": [{"id": 7, "stage": "n-2"}], "refill": 0}
+    },
+    {
+      "task": "dungeon",
+      "title": "Secret Dungeon",
+      "enable": 1,
+      "props": {"locations": [{"id": 8, "stage": "n-1"}], "refill": 0}
     },
     {
       "task": "dungeon",
