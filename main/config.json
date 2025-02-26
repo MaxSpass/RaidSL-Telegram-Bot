@@ -184,6 +184,27 @@
       }
     },
     {
+      "task": "chimera",
+      "enable": 1,
+      "props": {
+        "runs_limit": 5,
+        "runs": [
+          {
+            "stage": 6,
+            "team_preset": 2,
+            "min_damage": 70,
+            "skip": 0
+          },
+          {
+            "stage": 6,
+            "team_preset": 4,
+            "min_damage": 43,
+            "skip": 0
+          }
+        ]
+      }
+    },
+    {
       "task": "dungeon",
       "title": "Minotaur",
       "enable": 1,
