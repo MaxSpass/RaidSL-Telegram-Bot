@@ -293,7 +293,6 @@
       "name": "primary",
       "commands": [
         "arena_live",
-        "arena_live",
         "arena_classic",
         "arena_tag",
         "rewards",
@@ -312,7 +311,6 @@
     {
       "name": "primary with sand devil",
       "commands": [
-        "arena_live",
         "arena_live",
         "arena_classic",
         "arena_tag",
@@ -333,7 +331,6 @@
     {
       "name": "primary with minotaur",
       "commands": [
-        "arena_live",
         "arena_live",
         "arena_classic",
         "arena_tag",
